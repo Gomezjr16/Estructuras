@@ -16,6 +16,9 @@ public class Nacholee {
     System.out.println("la suma de los dos numeros es"+n1+n2);
 
 } 
+public  int sumaNumeros(int n1, int n2){
+    return n1+n2;
+}
 
 
 
