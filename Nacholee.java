@@ -8,7 +8,7 @@ public class Nacholee {
     
 
     int n1=0, n2=0, suma=0;
-    scanner sc = new scanner (system.in);
+    Scanner sc = new Scanner (system.in);
     System.out.println("ingrese el numero 1");
     n1= sc.nextline;
     System.out.println("ingrese el numero 2");
